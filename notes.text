@@ -1,0 +1,16 @@
+methods for array list     return type 
+.add() // add element to the last  , boolean/void
+.addAll()  // add collections of elements to the list  , boolean
+.clear()   //remove all elements froim the list ,  void
+.clone()   // return a copy of the arraylist ,object
+.contains()  // checks the elemwnt exisrts or not , boolean
+.ensureCapacity()  // increase the capacity of the list ,void
+.forEach()    // perform an action on every item of the list, void
+.get()     // get the item by index  . return depend on the list data type
+.idexOf()  // get index of the  given element ,   int
+.isEmpty()    // check the list is empty or not ,  boolean
+.lastindex()   // last index of the element , int
+.remove()     // remove the element from the list , boolean
+.removeAll()    // remove a collection of the list ,  boolean
+.removeIf()     // remove the element from the list if the condition matches , boolean
+.replaceAll()   // replace all ther elements by the given item or elements , boolean
