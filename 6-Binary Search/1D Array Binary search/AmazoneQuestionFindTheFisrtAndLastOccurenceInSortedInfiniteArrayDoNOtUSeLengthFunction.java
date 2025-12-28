@@ -1,7 +1,7 @@
 public class AmazoneQuestionFindTheFisrtAndLastOccurenceInSortedInfiniteArrayDoNOtUSeLengthFunction {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6,7,8,9,12,13,14,15,16,17,18,19};
-        int target=12;
+        int target=1;
         int[] result=(checkingTheWindowInWhichElementExist(arr, target));
         System.out.println(result[0]+" "+result[1]);
     }
@@ -31,8 +31,8 @@ public class AmazoneQuestionFindTheFisrtAndLastOccurenceInSortedInfiniteArrayDoN
                 end=mid-1;
             }
         }
-        while (start2<=end) {
-            mid=start+(end2-start2)/2;
+        while (start2<=end2) {
+            mid=start2+(end2-start2)/2;
             if(arr[mid]<target){
                 start2=mid+1;
             }else if(arr[mid]>target){
