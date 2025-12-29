@@ -1,7 +1,7 @@
 import java.util.*;
 public class creationsyntax{
     public static void main(String[] args) {
-        List<Integer> list=new ArrayList<>();
+        ArrayList<Integer> list=new ArrayList<>();
         list.add(32);
         list.add(62);
         list.add(34);
