@@ -9,7 +9,7 @@ public class leetcode1930{
 class Solution {
     public int countPalindromicSubsequence(String s) {
         if(s.length()==3){
-            String st=new StringBuilder(s).reverse().toString();
+            String st=new StringBuilderOperations(s).reverse().toString();
             if(s.equals(st)){return 1;}
             else{return 0;}
         }
@@ -19,7 +19,7 @@ class Solution {
                 for(int k=j+1;k<s.length();k++){
                     String str1=""+s.charAt(i)+s.charAt(j)+s.charAt(k);
                     System.out.println(str1);
-                    String str2=new StringBuilder(str1).reverse().toString();
+                    String str2=new StringBuilderOperations(str1).reverse().toString();
                     // System.out.println(str2);
                     if(str1.equals(str2)){
                     set.add(str1);
