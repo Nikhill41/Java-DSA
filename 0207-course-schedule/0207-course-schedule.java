@@ -1,34 +1,39 @@
 class Solution {
     public boolean canFinish(int n, int[][] pre) {
+        boolean[] vis=new boolean[n];
+        boolean[] pathVis=new boolean[n];
         List<List<Integer>> adj=new ArrayList<>();
-        int[] inD=new int[n];//for indegree
-        for(int i=0;i<n;i++){
+        for(int  i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
         for(int i=0;i<pre.length;i++){
-            int v=pre[i][0];
-            int u=pre[i][1];
-            adj.get(u).add(v);
-            inD[v]++;
+            int u=pre[i][0];
+            int v=pre[i][1];
+            adj.get(v).add(u);
         }
-        Queue<Integer> q=new LinkedList<>();
-        List<Integer> ans=new ArrayList<>();
+        System.out.println(adj);
         for(int i=0;i<n;i++){
-            if(inD[i]==0){
-                q.add(i);
-            }
-        }
-
-        while(q.size()>0){
-            int front=q.remove();
-            ans.add(front);// if all are visited then added to ans
-            for(int i=0;i<adj.get(front).size();i++){
-                inD[adj.get(front).get(i)]--;//in degree cannot be in - because the parent element is one indegree
-                if(inD[adj.get(front).get(i)]==0){//if degree is more than 0 means there any another path exist to visit this node
-                    q.add(adj.get(front).get(i));
+            if(!vis[i]){
+                if(!dfs(i,vis,pathVis,adj)){
+                    return false;
                 }
             }
         }
-        return ans.size()==n;
+        return true;
+    }
+    boolean dfs(int node,boolean[] vis, boolean[] pathVis,List<List<Integer>> adj){
+        vis[node]=true;
+        pathVis[node]=true;
+        for(int i=0;i<adj.get(node).size();i++){
+            if(!vis[adj.get(node).get(i)]){
+                if(!dfs(adj.get(node).get(i),vis,pathVis,adj)){
+                    return false;
+                }
+            }else if(pathVis[adj.get(node).get(i)]==true){
+                return false;
+            }
+        }
+        pathVis[node]=false;
+        return true;
     }
 }
