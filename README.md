@@ -489,3 +489,31 @@ Target: Master all fundamental DSA concepts ✨
 **Created with ❤️ | Learning in Public 📚 | Last Updated: February 2026**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+<!---LeetCode Topics End-->
