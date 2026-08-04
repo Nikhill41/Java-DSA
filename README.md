@@ -495,10 +495,12 @@ Target: Master all fundamental DSA concepts ✨
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -507,6 +509,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -516,4 +519,12 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
