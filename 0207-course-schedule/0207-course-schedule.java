@@ -11,7 +11,6 @@ class Solution {
             adj.get(u).add(v);
             inD[v]++;
         }
-        System.out.println(adj+"    "+Arrays.toString(inD));
         Queue<Integer> q=new LinkedList<>();
         List<Integer> ans=new ArrayList<>();
         for(int i=0;i<n;i++){
