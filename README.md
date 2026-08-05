@@ -520,6 +520,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -550,12 +551,19 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
+## Array
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
