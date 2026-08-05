@@ -497,6 +497,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
@@ -504,6 +505,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
@@ -515,6 +517,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
@@ -543,4 +546,16 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
