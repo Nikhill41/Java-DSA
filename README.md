@@ -527,6 +527,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -541,6 +542,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -566,12 +568,14 @@ Target: Master all fundamental DSA concepts ✨
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Array
 |  |
 | ------- |
@@ -589,4 +593,5 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
