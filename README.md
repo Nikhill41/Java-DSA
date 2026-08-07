@@ -583,6 +583,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -609,4 +610,16 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nikhill41/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Sorting
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
