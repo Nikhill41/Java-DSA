@@ -511,6 +511,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Nikhill41/Java-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -582,6 +583,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -591,6 +593,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Matrix
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
