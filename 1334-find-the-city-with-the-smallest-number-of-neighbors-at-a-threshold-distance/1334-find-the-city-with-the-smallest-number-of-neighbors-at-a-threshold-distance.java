@@ -11,7 +11,6 @@ class Solution {
     }
     public int findTheCity(int n, int[][] edges, int distanceThreshold) {
         List<List<Pair>> adj=new ArrayList<>();
-        List<List<Integer>> minCity=new ArrayList<>();
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<Pair>());
         }
@@ -27,22 +26,23 @@ class Solution {
             adj.get(v).add(new Pair(u,dis));
         }
         for(int i=0;i<n;i++){
-            bfs(i,distanceThreshold,adj,minDis,minCity);
+            bfs(i,distanceThreshold,adj,minDis);
         }
         int resultMin = Integer.MAX_VALUE;
+        int[] reachableCity=new int[n];
         for(int i=0;i<n;i++){
-            List<Integer> li=new ArrayList<>();
+            int count=0;
             for(int j=0;j<n;j++){
                 if(minDis[i][j]!=0 && minDis[i][j]!=Integer.MAX_VALUE){
-                    li.add(minDis[i][j]);
+                    count++;
                 }
             }
-            minCity.add(li);
-            resultMin=Math.min(resultMin,minCity.get(i).size());
+            reachableCity[i]=count;
+            resultMin=Math.min(resultMin,count);
         }
         int ind=0;
         for(int i=0;i<n;i++){
-            if(minCity.get(i).size()==resultMin){
+            if(reachableCity[i]==resultMin){
                 ind=Math.max(i,ind);
             }
         }
@@ -50,7 +50,7 @@ class Solution {
 
     }
 
-    void bfs(int i, int disTh,List<List<Pair>> adj,int[][] minDis, List<List<Integer>> minCity){
+    void bfs(int i, int disTh,List<List<Pair>> adj,int[][] minDis){
         PriorityQueue<Pair> pq=new PriorityQueue<>();
         pq.add(new Pair(i,0));
         minDis[i][i]=0;
@@ -58,7 +58,7 @@ class Solution {
             Pair front=pq.remove();
             int currNode=front.node;
             int currDis=front.dis;
-            if(currDis>disTh){
+            if(currDis>disTh || currDis>minDis[i][currNode]){
                 continue;
             }
             for(Pair p:adj.get(currNode)){
