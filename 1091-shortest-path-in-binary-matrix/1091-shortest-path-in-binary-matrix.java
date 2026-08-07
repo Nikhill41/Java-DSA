@@ -1,83 +1,47 @@
 class Solution {
-    public class Triplets implements Comparable<Triplets>{
-        int row,col,dis;
-        Triplets(int row, int col, int dis){
-            this.row=row;
-            this.col=col;
-            this.dis=dis;
-        }
-        public int compareTo(Triplets p){
-            return Integer.compare(this.dis,p.dis);
-        }
-    }
     public int shortestPathBinaryMatrix(int[][] grid) {
-        int n=grid.length;
-        if(grid[0][0]==1 || grid[n-1][n-1]==1) return -1;
-        int[][] minDis=new int[n][n];
-        for(int i=0;i<n;i++){
-            Arrays.fill(minDis[i],Integer.MAX_VALUE);
-        }
-        minDis[0][0]=1;
-        PriorityQueue<Triplets> pq=new PriorityQueue<>();
-        pq.add(new Triplets(0,0,1));
 
-        while(pq.size()>0){
-            Triplets front=pq.remove();
-            int row=front.row;
-            int col=front.col;
-            int currDis=front.dis;
-            if(currDis>minDis[row][col]){
-                continue;
-            }
-            if(row>0){//left
-                if(grid[row-1][col]==0 && minDis[row-1][col]>currDis+1){
-                    minDis[row-1][col]=currDis+1;
-                    pq.add(new Triplets(row-1,col,currDis+1));
-                }
-            }
-            if(row>0 && col>0){//left and up
-                if( grid[row-1][col-1]==0 && minDis[row-1][col-1]>currDis+1){
-                    minDis[row-1][col-1]=currDis+1;
-                    pq.add(new Triplets(row-1,col-1,currDis+1));
-                }
-            }
-            if(col>0){// up
-                if(grid[row][col-1]==0 && minDis[row][col-1]>currDis+1){
-                    minDis[row][col-1]=currDis+1;
-                    pq.add(new Triplets(row,col-1,currDis+1));
-                }
-            }
-            if(row>0 && col<n-1){//up and right
-                if( grid[row-1][col+1]==0 && minDis[row-1][col+1]>currDis+1){
-                    minDis[row-1][col+1]=currDis+1;
-                    pq.add(new Triplets(row-1,col+1,currDis+1));
-                }
-            }
-            if(col<n-1){//right
-                if(grid[row][col+1]==0 && minDis[row][col+1]>currDis+1){
-                    minDis[row][col+1]=currDis+1;
-                    pq.add(new Triplets(row,col+1,currDis+1));
-                }
-            }
-            if(row<n-1 && col<n-1){//down and right
-                if( grid[row+1][col+1]==0 && minDis[row+1][col+1]>currDis+1){
-                    minDis[row+1][col+1]=currDis+1;
-                    pq.add(new Triplets(row+1,col+1,currDis+1));
-                }
-            }
-            if(row < n-1){ // down
-                if(grid[row+1][col] == 0 && minDis[row+1][col] > currDis+1){
-                    minDis[row+1][col] = currDis+1;
-                    pq.add(new Triplets(row+1, col, currDis+1));
-                }
-            }
-            if(row<n-1 && col>0){// left and down
-                if( grid[row+1][col-1]==0 && minDis[row+1][col-1]>currDis+1){
-                    minDis[row+1][col-1]=currDis+1;
-                    pq.add(new Triplets(row+1,col-1,currDis+1));
+        int n = grid.length;
+
+        if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
+            return -1;
+
+        int[] dr = {-1, -1, -1, 0, 0, 1, 1, 1};
+        int[] dc = {-1, 0, 1, -1, 1, -1, 0, 1};
+
+        Queue<int[]> q = new LinkedList<>();
+        boolean[][] vis = new boolean[n][n];
+
+        q.offer(new int[]{0, 0, 1});
+        vis[0][0] = true;
+
+        while (!q.isEmpty()) {
+
+            int[] front = q.poll();
+
+            int row = front[0];
+            int col = front[1];
+            int dis = front[2];
+
+            if (row == n - 1 && col == n - 1)
+                return dis;
+
+            for (int k = 0; k < 8; k++) {
+
+                int nr = row + dr[k];
+                int nc = col + dc[k];
+
+                if (nr >= 0 && nr < n &&
+                    nc >= 0 && nc < n &&
+                    !vis[nr][nc] &&
+                    grid[nr][nc] == 0) {
+
+                    vis[nr][nc] = true;
+                    q.offer(new int[]{nr, nc, dis + 1});
                 }
             }
         }
-        return minDis[n-1][n-1]==Integer.MAX_VALUE?-1:minDis[n-1][n-1];
+
+        return -1;
     }
 }
