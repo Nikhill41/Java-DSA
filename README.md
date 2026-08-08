@@ -616,6 +616,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 ## Counting Sort
 |  |
 | ------- |
@@ -626,6 +627,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -634,4 +636,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
+## String
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
