@@ -583,6 +583,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
@@ -591,6 +592,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Binary Search
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -614,6 +616,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
@@ -640,4 +643,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
+## Two Pointers
+|  |
+| ------- |
+| [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
