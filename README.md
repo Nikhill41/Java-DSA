@@ -585,6 +585,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -666,4 +667,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhill41/Java-DSA/tree/master/1584-min-cost-to-connect-all-points) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
