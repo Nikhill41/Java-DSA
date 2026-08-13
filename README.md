@@ -610,6 +610,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nikhill41/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
@@ -678,6 +679,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -686,4 +688,5 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
