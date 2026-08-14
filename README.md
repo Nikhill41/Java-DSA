@@ -586,6 +586,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
+| [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
@@ -607,6 +608,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
