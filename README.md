@@ -608,6 +608,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -680,6 +681,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -689,6 +691,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
