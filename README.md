@@ -593,6 +593,7 @@ Target: Master all fundamental DSA concepts ✨
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhill41/Java-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -606,6 +607,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -618,6 +620,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nikhill41/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Bellman–Ford Algorithm
