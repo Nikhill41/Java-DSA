@@ -585,6 +585,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
@@ -605,6 +606,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -613,6 +615,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
