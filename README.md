@@ -592,6 +592,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
@@ -609,6 +610,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
+| [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nikhill41/Java-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -711,4 +713,16 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
