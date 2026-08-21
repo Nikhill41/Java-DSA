@@ -507,6 +507,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nikhill41/Java-DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -623,6 +624,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhill41/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -697,6 +699,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -725,4 +728,12 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
