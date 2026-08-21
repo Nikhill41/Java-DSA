@@ -661,6 +661,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -673,6 +674,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 ## Minimum Spanning Tree
 |  |
@@ -699,6 +701,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -736,4 +739,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
