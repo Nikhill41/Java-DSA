@@ -588,6 +588,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
+| [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhill41/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
@@ -643,6 +644,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
@@ -674,6 +676,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 ## Minimum Spanning Tree
