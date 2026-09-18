@@ -633,6 +633,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Nikhill41/Java-DSA/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nikhill41/Java-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nikhill41/Java-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -675,6 +676,7 @@ Target: Master all fundamental DSA concepts ✨
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
@@ -753,4 +755,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
