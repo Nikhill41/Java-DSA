@@ -595,6 +595,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Nikhill41/Java-DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
@@ -609,6 +610,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
