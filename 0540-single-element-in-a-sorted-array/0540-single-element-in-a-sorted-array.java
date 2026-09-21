@@ -1,8 +1,7 @@
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-        int n=nums.length;
         int i=0;
-        int j=n-1;
+        int j=nums.length-1;;
 
         while(i<j){
             int mid=i+(j-i)/2;
