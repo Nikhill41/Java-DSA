@@ -595,6 +595,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Nikhill41/Java-DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
+| [0518-coin-change-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
@@ -633,6 +634,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Nikhill41/Java-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -747,10 +749,12 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
+| [0518-coin-change-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
+| [0518-coin-change-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0518-coin-change-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
