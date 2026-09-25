@@ -606,6 +606,7 @@ Target: Master all fundamental DSA concepts ✨
 | [1514-path-with-maximum-probability](https://github.com/Nikhill41/Java-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Nikhill41/Java-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Nikhill41/Java-DSA/tree/master/1631-path-with-minimum-effort) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhill41/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -719,6 +720,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhill41/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
