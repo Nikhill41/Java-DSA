@@ -664,6 +664,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
@@ -677,6 +678,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -688,6 +690,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0125-valid-palindrome](https://github.com/Nikhill41/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nikhill41/Java-DSA/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
@@ -776,4 +779,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
