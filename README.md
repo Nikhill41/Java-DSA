@@ -655,6 +655,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Nikhill41/Java-DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Nikhill41/Java-DSA/tree/master/1051-height-checker) |
@@ -675,6 +676,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 ## Quicksort
 |  |
@@ -684,6 +686,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Nikhill41/Java-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nikhill41/Java-DSA/tree/master/0344-reverse-string) |
 | [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
