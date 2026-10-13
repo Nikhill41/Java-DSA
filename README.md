@@ -588,6 +588,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhill41/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
@@ -725,6 +726,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
