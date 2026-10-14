@@ -757,6 +757,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Nikhill41/Java-DSA/tree/master/0191-number-of-1-bits) |
 | [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
 |  |
@@ -804,4 +805,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Nikhill41/Java-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
