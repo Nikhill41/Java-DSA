@@ -735,6 +735,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Nikhill41/Java-DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Nikhill41/Java-DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -742,6 +743,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Nikhill41/Java-DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -761,6 +763,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nikhill41/Java-DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Nikhill41/Java-DSA/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Nikhill41/Java-DSA/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
