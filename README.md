@@ -586,6 +586,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
@@ -627,6 +628,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
@@ -703,6 +705,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhill41/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
@@ -816,4 +819,12 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Nikhill41/Java-DSA/tree/master/0191-number-of-1-bits) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
