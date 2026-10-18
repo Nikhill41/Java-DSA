@@ -696,6 +696,7 @@ Target: Master all fundamental DSA concepts ✨
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhill41/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Nikhill41/Java-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Nikhill41/Java-DSA/tree/master/0125-valid-palindrome) |
@@ -833,9 +834,14 @@ Target: Master all fundamental DSA concepts ✨
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikhill41/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikhill41/Java-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
