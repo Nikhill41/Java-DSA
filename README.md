@@ -687,6 +687,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nikhill41/Java-DSA/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nikhill41/Java-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Quicksort
 |  |
 | ------- |
@@ -704,6 +705,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nikhill41/Java-DSA/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/1143-longest-common-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Nikhill41/Java-DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Nikhill41/Java-DSA/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
