@@ -708,6 +708,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0383-ransom-note](https://github.com/Nikhill41/Java-DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Nikhill41/Java-DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Nikhill41/Java-DSA/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Nikhill41/Java-DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/Nikhill41/Java-DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Nikhill41/Java-DSA/tree/master/1108-defanging-an-ip-address) |
@@ -755,6 +756,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Nikhill41/Java-DSA/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
+| [0412-fizz-buzz](https://github.com/Nikhill41/Java-DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
 | [2235-add-two-integers](https://github.com/Nikhill41/Java-DSA/tree/master/2235-add-two-integers) |
@@ -848,4 +850,8 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhill41/Java-DSA/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Nikhill41/Java-DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
