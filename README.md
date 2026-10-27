@@ -756,6 +756,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0279-perfect-squares](https://github.com/Nikhill41/Java-DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Nikhill41/Java-DSA/tree/master/1137-n-th-tribonacci-number) |
+| [2235-add-two-integers](https://github.com/Nikhill41/Java-DSA/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhill41/Java-DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
