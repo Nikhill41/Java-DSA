@@ -586,6 +586,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
@@ -681,6 +682,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Nikhill41/Java-DSA/tree/master/0383-ransom-note) |
