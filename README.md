@@ -588,6 +588,7 @@ Target: Master all fundamental DSA concepts ✨
 | ------- |
 | [0001-two-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nikhill41/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
@@ -630,6 +631,7 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Nikhill41/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Nikhill41/Java-DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
@@ -836,6 +838,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikhill41/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Nikhill41/Java-DSA/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
