@@ -596,6 +596,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nikhill41/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Nikhill41/Java-DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Nikhill41/Java-DSA/tree/master/0198-house-robber) |
+| [0283-move-zeroes](https://github.com/Nikhill41/Java-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Nikhill41/Java-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Nikhill41/Java-DSA/tree/master/0414-third-maximum-number) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
@@ -725,6 +726,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhill41/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Nikhill41/Java-DSA/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Nikhill41/Java-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nikhill41/Java-DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Nikhill41/Java-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0475-heaters](https://github.com/Nikhill41/Java-DSA/tree/master/0475-heaters) |
