@@ -495,6 +495,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Nikhill41/Java-DSA/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/Nikhill41/Java-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Nikhill41/Java-DSA/tree/master/0743-network-delay-time) |
@@ -868,4 +869,12 @@ Target: Master all fundamental DSA concepts ✨
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikhill41/Java-DSA/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Nikhill41/Java-DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Nikhill41/Java-DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
