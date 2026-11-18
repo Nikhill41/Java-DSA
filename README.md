@@ -590,6 +590,7 @@ Target: Master all fundamental DSA concepts ✨
 | [0001-two-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Nikhill41/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nikhill41/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Nikhill41/Java-DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Nikhill41/Java-DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhill41/Java-DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Nikhill41/Java-DSA/tree/master/0066-plus-one) |
@@ -663,6 +664,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nikhill41/Java-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Nikhill41/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Nikhill41/Java-DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhill41/Java-DSA/tree/master/0242-valid-anagram) |
@@ -702,6 +704,7 @@ Target: Master all fundamental DSA concepts ✨
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nikhill41/Java-DSA/tree/master/0056-merge-intervals) |
 | [1122-relative-sort-array](https://github.com/Nikhill41/Java-DSA/tree/master/1122-relative-sort-array) |
 ## String
 |  |
